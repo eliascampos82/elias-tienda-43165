@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "nombre": "PSG",
+      "precio": 5950,
+      "imagen": "imagenes/RF1.png"
+    },
+    {
+      "id": 2,
+      "nombre": "VELEZ SARSFIELD",
+      "precio": 5750,
+      "imagen": "imagenes/RF2.png"
+    },
+    {
+      "id": 3,
+      "nombre": "ARGENTINA",
+      "precio": 6900,
+      "imagen": "imagenes/RF3.png"
+    },
+    {
+      "id": 4,
+      "nombre": "BARCELONA",
+      "precio": 9450,
+      "imagen": "imagenes/RF4.png"
+    },
+    {
+      "id": 5,
+      "nombre": "ROLLING STONES",
+      "precio": 9500,
+      "imagen": "imagenes/RMI1.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "DIE TOTEN HOSEN",
+      "precio": 4500,
+      "imagen": "imagenes/RMI2.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "NIRVANA",
+      "precio": 9500,
+      "imagen": "imagenes/RMI3.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "THE BEATLES",
+      "precio": 9550,
+      "imagen": "imagenes/RMI4.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "CIRO",
+      "precio": 9500,
+      "imagen": "imagenes/RN1.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "INDIO",
+      "precio": 4500,
+      "imagen": "imagenes/RN2.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "LA RENGA",
+      "precio": 9500,
+      "imagen": "imagenes/RN3.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "SODA STEREO",
+      "precio": 8550,
+      "imagen": "imagenes/RN4.jpg"
+    },
+    {
+     "id": 13,
+      "nombre": "GAME OVER",
+      "precio": 8950,
+      "imagen": "imagenes/RG1.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "A JUGARRR!",
+      "precio": 9750,
+      "imagen": "imagenes/RG2.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "GAMER",
+      "precio": 8900,
+      "imagen": "imagenes/RG3.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "ZONA GAMER",
+      "precio": 8450,
+      "imagen": "imagenes/RG4.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "DIGNITY",
+      "precio": 8500,
+      "imagen": "imagenes/RR1.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "PEAKY BLINDERS",
+      "precio": 4500,
+      "imagen": "imagenes/RR2.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "FLOKY",
+      "precio": 8500,
+      "imagen": "imagenes/RR3.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "PULP FICTION",
+      "precio": 8550,
+      "imagen": "imagenes/RR4.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "VIKINGS",
+      "precio": 8500,
+      "imagen": "imagenes/RR5.jpg"
+    },
+    {
+      "id": 22,
+      "nombre": "SOUTH PARK",
+      "precio": 4500,
+      "imagen": "imagenes/RR6.jpg"
+    },
+    {
+      "id": 23,
+      "nombre": "TRANSFORMERS",
+      "precio": 8500,
+      "imagen": "imagenes/RR7.jpg"
+    },
+    {
+      "id": 24,
+      "nombre": "PEAKY BLINDERS",
+      "precio": 550,
+      "imagen": "imagenes/RR8.jpg"
+    }
+]
